@@ -21,7 +21,7 @@ A simple **C++ program** that takes a student's mark as input and displays the c
 
 ## 💻 How to Run
 
-1. **Save** the code as `grade.cpp`
+1. **Save** the code as `lettergrade.cpp`
 2. **Open Terminal** or **Command Prompt**
 3. **Compile** the code using:
    ```bash
